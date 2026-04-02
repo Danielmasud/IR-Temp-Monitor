@@ -2,7 +2,7 @@
 
 A compact, remote-controlled ambient temperature monitoring system built with Arduino. This project demonstrates hardware integration, signal decoding, and sensor data filtering.
 
-![Project Running](images/Project_IR1.JPG)
+![Project Running](IR-Temp-Monitor/images/Project_IR1.JPG)
 
 ## 📌 Features
 * **IR Signal Decoding:** Utilizes the VS1838B receiver to capture and decode NEC protocol signals from a standard car MP3 remote.
